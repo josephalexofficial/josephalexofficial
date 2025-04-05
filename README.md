@@ -19,10 +19,10 @@ I'm a passionate Front-End Developer and Graphic Designer committed to creating 
 - **State Management**: Redux  
 - **Styling**: CSS Modules, Tailwind CSS, Daisy UI  
 
-### Backend  
-- **Frameworks & Libraries**: Hono.js, Node.js  
-- **Database & ORM**: PostgreSQL, Drizzle ORM  
-- **API Development**: RESTful APIs, Hono.js  
+### Design 
+- **Design Tools**: Figma,Adobe XD,Photoshop,Illustrator  
+- **Prototyping & UI/UX**: Wireframing, User Flow Design  
+- **Visual Design**: Typography,Color Theory,Branding 
 
 ### Tools & Other Skills  
 - **Version Control**: Git, GitHub  
