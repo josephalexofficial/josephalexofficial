@@ -35,8 +35,10 @@ I'm a passionate Front-End Developer and Graphic Designer committed to creating 
 
 ## 🔥 GitHub Stats  
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephalexofficial&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephalexofficial&layout=compact&theme=tokyonight)  
+ 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=WambiruL&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WambiruL&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WambiruL&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
